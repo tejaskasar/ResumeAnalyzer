@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+pdfplumber
+docx2txt
+pytesseract
+pdf2image
+sentence-transformers
+spacy
